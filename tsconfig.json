@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "ES6",  // Alvo de compilação JavaScript
     "module": "CommonJS",  // Módulos compatíveis com Node.js
+    "moduleResolution": "node",
     "strict": true,  // Habilita verificações estritas de tipo
     "esModuleInterop": true,  // Para importar módulos ES6 em CommonJS
     "skipLibCheck": true,
