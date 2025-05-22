@@ -19,7 +19,8 @@ debug.log
 *.tsbuildinfo
 
 # Build output
-
+dist/
+build/
 
 # Docker
 docker-compose.override.yml
