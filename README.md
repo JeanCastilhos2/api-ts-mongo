@@ -1,6 +1,6 @@
 # API Node.js com TypeScript
 
-Esta é uma API base escalável desenvolvida com Node.js, TypeScript, Sequelize e PostgreSQL. Ela implementa operações CRUD para um modelo de usuário, autenticação via JWT e é protegida por middleware.
+Esta é uma API base escalável desenvolvida com Node.js, TypeScript, Sequelize e MongoDB. Ela implementa operações CRUD para um modelo de usuário, autenticação via JWT e é protegida por middleware.
 
 ## Recursos da API
 - Rota de login para autenticação de usuários.
